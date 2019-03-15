@@ -10,7 +10,7 @@
 	},
 	"dependencies": {},
 	"scripts": {
-		"test": "echo 'phantomjs axe-phantom.js https://www.dequeuniversity.com'"
+		"test": "phantomjs axe-phantom.js https://www.dequeuniversity.com"
 	},
 	"devDependencies": {
 		"axe-core": "^3.2.2",
